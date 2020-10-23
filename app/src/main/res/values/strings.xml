@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Explicitintents video</string>
+    <string name="plz_enter_name">plz enter name</string>
+    <string name="act2">ACTIVITY 2</string>
+    <string name="activity_3">ACTIVITY 3</string>
+    <string name="data_from_act3_will_be_displayed">data from act3 will be displayed</string>
+    <string name="name">please enter name</string>
+    <string name="welcome_to_act2">welcome to act2</string>
+    <string name="enter_surname">enter surname</string>
+    <string name="button">Button</string>
+    <string name="cancel">cancel</string>
+</resources>
